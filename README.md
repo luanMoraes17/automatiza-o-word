@@ -1,0 +1,3 @@
+ - AUTOMATIZAÇÃO python-docx
+ - Através do site https://python-docx.readthedocs.io/en/latest/
+ - fiz dois projetos pequenos de automatização de vendas usando a linguagem python onde pude aprender e aprimorar meus conhecimentos
